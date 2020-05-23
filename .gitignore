@@ -1,8 +1,3 @@
-
-
-# ==================================================================
-# VsCode
-# ==================================================================
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -12,4 +7,3 @@
 
 # Local History for Visual Studio Code
 .history/
-
